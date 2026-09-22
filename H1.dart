@@ -6,9 +6,9 @@ void main() {
   //Cl 1
   print("...Challange 1...");
   print('nama         :${nama}');
-  print('umur         :${nama}');
-  print('Tinggi       :${nama}');
-  print('Sudah Kerja  :${nama}');
+  print('umur         :${umur}');
+  print('Tinggi       :${tinggi}');
+  print('Sudah Kerja  :${isWork}');
   print('                      ');
 
   //cl2
